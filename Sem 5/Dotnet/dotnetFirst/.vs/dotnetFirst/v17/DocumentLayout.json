@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\newfolder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\newfolder\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\account_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\account_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\stackk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\stackk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\bank_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|e:\\codes\\college codes\\sem 5\\dotnet\\dotnetfirst\\dotnetfirst\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84482757-A46E-41AB-9898-9AD9709AF143}|dotnetFirst\\dotnetFirst.csproj|solutionrelative:dotnetfirst\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\NewFolder\\Class1.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\NewFolder\\Class1.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\NewFolder\\Class1.cs",
+              "RelativeToolTip": "dotnetFirst\\NewFolder\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:57:39.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stackk.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Stackk.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Stackk.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Stackk.cs",
+              "RelativeToolTip": "dotnetFirst\\Stackk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T05:35:54.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Salary.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Salary.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Salary.cs",
+              "RelativeToolTip": "dotnetFirst\\Salary.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T08:02:33.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Student.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Student.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Student.cs",
+              "RelativeToolTip": "dotnetFirst\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:14:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bank_Account.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Bank_Account.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Bank_Account.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Bank_Account.cs",
+              "RelativeToolTip": "dotnetFirst\\Bank_Account.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:01:21.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Staff.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Staff.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Staff.cs",
+              "RelativeToolTip": "dotnetFirst\\Staff.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:31:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Program.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Program.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Program.cs",
+              "RelativeToolTip": "dotnetFirst\\Program.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAMgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:29:11.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account_Details.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Account_Details.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Account_Details.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Account_Details.cs",
+              "RelativeToolTip": "dotnetFirst\\Account_Details.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:31:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cs.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\cs.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\cs.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\cs.cs",
+              "RelativeToolTip": "dotnetFirst\\cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:02:52.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Rectangle.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Rectangle.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Rectangle.cs",
+              "RelativeToolTip": "dotnetFirst\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:27:43.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Candidate.cs",
+              "RelativeDocumentMoniker": "dotnetFirst\\Candidate.cs",
+              "ToolTip": "E:\\Codes\\College codes\\Sem 5\\Dotnet\\dotnetFirst\\dotnetFirst\\Candidate.cs",
+              "RelativeToolTip": "dotnetFirst\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:16:14.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

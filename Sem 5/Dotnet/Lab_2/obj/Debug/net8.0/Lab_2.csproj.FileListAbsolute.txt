@@ -1,0 +1,14 @@
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\bin\Debug\net8.0\Lab_2.exe
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\bin\Debug\net8.0\Lab_2.deps.json
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\bin\Debug\net8.0\Lab_2.runtimeconfig.json
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\bin\Debug\net8.0\Lab_2.dll
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\bin\Debug\net8.0\Lab_2.pdb
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfoInputs.cache
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.AssemblyInfo.cs
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.csproj.CoreCompileInputs.cache
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.dll
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\refint\Lab_2.dll
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.pdb
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\Lab_2.genruntimeconfig.cache
+E:\Codes\College codes\Sem 5\Dotnet\Lab_2\obj\Debug\net8.0\ref\Lab_2.dll

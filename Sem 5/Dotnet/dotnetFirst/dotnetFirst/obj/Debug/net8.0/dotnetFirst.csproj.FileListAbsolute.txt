@@ -1,0 +1,14 @@
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\bin\Debug\net8.0\dotnetFirst.exe
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\bin\Debug\net8.0\dotnetFirst.deps.json
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\bin\Debug\net8.0\dotnetFirst.runtimeconfig.json
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\bin\Debug\net8.0\dotnetFirst.dll
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\bin\Debug\net8.0\dotnetFirst.pdb
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.AssemblyInfoInputs.cache
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.AssemblyInfo.cs
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.csproj.CoreCompileInputs.cache
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.dll
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\refint\dotnetFirst.dll
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.pdb
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\dotnetFirst.genruntimeconfig.cache
+E:\Codes\College codes\Sem 5\Dotnet\dotnetFirst\dotnetFirst\obj\Debug\net8.0\ref\dotnetFirst.dll

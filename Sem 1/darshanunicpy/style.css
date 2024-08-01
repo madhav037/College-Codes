@@ -1,0 +1,63 @@
+body{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+.page1{
+    height: 99vh;
+    background-color: red;
+    width: 100%;
+}
+.page1 img{
+    position: absolute;
+    height: 65px;
+    width: 250px;
+}
+.menu{
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    float: right;
+    margin-top: 10px;
+}
+.menuHead{
+    background-color: black;
+    color: white;
+}
+.menuContent{
+
+}
+
+
+.page2{
+    height: 120vh;
+    width: 100%;
+    background-color: blue;
+}
+
+
+.minibar{
+    height: 25vh;
+    width: 100%;
+    background-color: purple;
+}
+
+
+.placementsHighlights{
+    height: 113vh;
+    width: 100%;
+    background-color: green;
+}
+
+
+.newsAndActivities{
+    height: 147vh;
+    width: 100%;
+    background-color: orange;
+}
+
+
+.about{
+    height: 73px;
+    width: 100%;
+    background-color: aqua;
+}

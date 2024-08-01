@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+student name //req 
+endroll //6-12
+pass //regex
+email 
+contact no
+*@
+@{
+}
+
+@model Student;
+
+
+<h1>Student Form</h1>
+<form class="row g-3">
+    <div class="col-md-12">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingName" placeholder="Student name">
+            <label for="floatingName">Student name</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="Enrollment Number">
+            <label for="floatingEmail">Enrollment Number</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="password" class="form-control" id="floatingEmail" placeholder="Password">
+            <label for="floatingEmail">Password</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="email" class="form-control" id="floatingEmail" placeholder="Email">
+            <label for="floatingEmail">Email</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="Contact Number">
+            <label for="floatingEmail">Contact Number</label>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
