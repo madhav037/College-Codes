@@ -1,0 +1,55 @@
+﻿
+
+<h1>User Form</h1>
+<form class="row g-3">
+    <input type="hidden" class="form-control" placeholder="id" name="UserID" />
+    <div class="col-md-12">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingName" placeholder="User name">
+            <label for="floatingName">User name</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="email" class="form-control" id="floatingEmail" placeholder="Email">
+            <label for="floatingEmail">Email</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="password" class="form-control" id="floatingEmail" placeholder="Password">
+            <label for="floatingEmail">Password</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="Mobile No.">
+            <label for="floatingEmail">Mobile No.</label>
+        </div>
+    </div>
+    <div class="col mb-6">
+        <label for="inputPassword" class="col-sm-2 col-form-label">Address</label>
+        <div class="col-sm-10">
+            <textarea class="form-control" style="height: 100px"></textarea>
+        </div>
+    </div>
+    <fieldset class="col mb-3">
+        <legend class="col-form-label col-sm-2 pt-0">Radios</legend>
+        <div class="col-sm-10">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1" checked="">
+                <label class="form-check-label" for="gridRadios1">
+                    True
+                </label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2">
+                <label class="form-check-label" for="gridRadios2">
+                    False
+                </label>
+            </div>
+        </div>
+    </fieldset>
+    <a class="btn bg-save">Add</a>
+    <a class="btn bg-save" asp-controller="User" asp-action="Index">Cancel</a>
+</form>

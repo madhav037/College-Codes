@@ -1,0 +1,9 @@
+//Copy one file to another file.
+#include<stdio.h>
+
+int main() {
+	FILE *f1, *f2;
+	f1 = fopen("file.txt","r");
+	f2 = fopen("filecpy.txt","w");
+	f2 = f1;
+}

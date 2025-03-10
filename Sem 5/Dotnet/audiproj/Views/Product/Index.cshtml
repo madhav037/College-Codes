@@ -1,0 +1,132 @@
+﻿@model Product
+
+<div>
+    <div>
+        <h2>Product Form</h2>
+        @using (Html.BeginForm("Index", "Product", FormMethod.Post))
+        {
+            <div class="form-group mb-3">
+                @Html.LabelFor(m => m.ProductName, "Product Name", new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.ProductName, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.LabelFor(m => m.ProductPrice, "Product Price", new { @class = "form-label" })
+                @Html.TextBoxFor(m => m.ProductPrice, new { @class = "form-control", type = "number", step = "0.01" })
+                @Html.ValidationMessageFor(m => m.ProductPrice, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.LabelFor(m => m.Category, "Category", new { @class = "form-label" })
+                <div class="d-flex flex-column">
+                    <label class="form-check-label">
+                        @Html.CheckBox("Category", new { @class = "form-check-input", value = "Smart phones" }) Smart phones
+                    </label>
+                    <label class="form-check-label">
+                        @Html.CheckBox("Category", new { @class = "form-check-input", value = "Washing machine" }) Washing machine
+                    </label>
+                    <label class="form-check-label">
+                        @Html.CheckBox("Category", new { @class = "form-check-input", value = "LCD TV" }) LCD TV
+                    </label>
+                </div>
+                @Html.ValidationMessageFor(m => m.Category, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.LabelFor(m => m.ProductPrice, "Product Ratings", new { @class = "form-label" })
+                <div class="d-flex justify-content-between">
+                    @for (int i = 1; i <= 5; i++)
+                    {
+                        <label class="form-check-label">
+                            @Html.RadioButtonFor(m => m.Rating, i, new { @class = "form-check-input" }) @i
+                        </label>
+                    }
+                </div>
+                @Html.ValidationMessageFor(m => m.Rating, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-3">
+                @Html.LabelFor(m => m.ProductDescription, new { @class = "form-label" })
+                @Html.TextAreaFor(m => m.ProductDescription, new { @class = "form-control", rows = 4 })
+                @Html.ValidationMessageFor(m => m.ProductDescription, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group mb-4">
+                @Html.LabelFor(m => m.ProductCompany, new { @class = "form-label" })
+                @Html.DropDownListFor(m => m.ProductCompany, new SelectList(new[]
+                         {
+            new { Value = "", Text = "-- Select --" },
+            new { Value = "Company A", Text = "Apple" },
+            new { Value = "Company B", Text = "Sony" },
+            new { Value = "Company C", Text = "LG" },
+            }, "Value", "Text"), new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.ProductCompany, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@* @model Product
+
+ <form method="post">
+     <div class="form-group">
+         @Html.LabelFor(m => m.ProductID)
+         @Html.TextBoxFor(m => m.ProductID, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.ProductID, "", new { @class = "text-danger" })
+     </div>
+
+     <div class="form-group">
+         @Html.LabelFor(m => m.ProductName)
+         @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.ProductName, "", new { @class = "text-danger" })
+     </div>
+
+     <div class="form-group">
+         @Html.LabelFor(m => m.ProductPrice)
+         @Html.TextBoxFor(m => m.ProductPrice, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.ProductPrice, "", new { @class = "text-danger" })
+     </div>
+
+     <div class="form-group">
+         @Html.LabelFor(m => m.Category)
+         @Html.TextBoxFor(m => m.Category, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.Category, "", new { @class = "text-danger" })
+     </div>
+
+     <div class="form-group">
+         @Html.LabelFor(m => m.Rating)
+         @Html.TextBoxFor(m => m.Rating, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.Rating, "", new { @class = "text-danger" })
+     </div>
+
+     <div class="form-group">
+         @Html.LabelFor(m => m.ProductDescription)
+         @Html.TextAreaFor(m => m.ProductDescription, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.ProductDescription, "", new { @class = "text-danger" })
+     </div>
+
+     <div class="form-group">
+         @Html.LabelFor(m => m.ProductCompany)
+         @Html.TextBoxFor(m => m.ProductCompany, new { @class = "form-control" })
+         @Html.ValidationMessageFor(m => m.ProductCompany, "", new { @class = "text-danger" })
+     </div>
+
+     <button type="submit" class="btn btn-primary">Submit</button>
+ </form>
+
+ @section Scripts
+         {
+     @{
+         await Html.RenderPartialAsync("_ValidationScriptsPartial");
+     }
+ } *@

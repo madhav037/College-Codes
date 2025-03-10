@@ -1,0 +1,38 @@
+﻿
+
+<h1>Product Form</h1>
+<form class="row g-3">
+    <input type="hidden" class="form-control" placeholder="id" name="ProductID" />
+    <div class="col-md-12">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingName" placeholder="Product name">
+            <label for="floatingName">Product name</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="Product Price">
+            <label for="floatingEmail">Product Price</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="Product Code">
+            <label for="floatingEmail">Product Code</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="Description">
+            <label for="floatingEmail">Description</label>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="form-floating">
+            <input type="text" class="form-control" id="floatingEmail" placeholder="UserID">
+            <label for="floatingEmail">User ID</label>
+        </div>
+    </div>
+    <a class="btn bg-save">Add</a>
+    <a class="btn bg-save" asp-controller="Product" asp-action="Product">Cancel</a>
+</form>

@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+}
+/*header*/
+
+.header{
+    margin-left: 20px;
+    margin-right: 0px;
+    background-color: rgb(243, 242, 237);
+}
+.header p{
+    padding: 40px 20px 40px 20px;
+    margin-bottom: 0px;
+    font-size: 6vh;
+}
+/*content*/
+
+.content{
+    margin-top: 0px;
+    margin-left: 20px;
+    background-color: blue;
+}
+.c2{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    float: left;
+}
+.c2heading{
+    margin-top: 1px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: x-large;
+
+}
+.c2content{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    line-height: 3vh;
+    font-size: large;
+}
+.c1{
+    background-color: rgb(246, 240, 224);
+    width: 20%;
+    float: left;
+}
+.c1heading{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: x-large;
+
+}
+.c1content{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    line-height: 4vh;
+    font-size: large;
+}
+.c3{
+    background-color: rgb(204, 200, 179);
+    width: 50%;
+}
+.c3heading{
+    margin-top: 1px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: larger;
+}
+.c3content{
+    margin-left: 5px;
+    margin-bottom: 20px;
+    line-height: 3vh;
+    font-size: large;
+}
+.footer{
+    margin-top: 0px;
+    margin-left: 10px;
+    margin-right: 40px;
+    font-weight: bold;
+    font-size: larger;
+    width: 96%;
+    background-color: rgb(191, 189, 147);
+    float: left;
+    padding-left: 20px;
+
+}

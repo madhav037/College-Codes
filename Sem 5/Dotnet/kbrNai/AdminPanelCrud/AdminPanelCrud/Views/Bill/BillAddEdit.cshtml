@@ -1,0 +1,63 @@
+﻿@model Bill
+@{
+    var addOrEdit = TempData["AddEdit"];
+    Console.WriteLine(addOrEdit);
+}
+<div class="card-body">
+    <h5 class="card-title">Bill @addOrEdit Form</h5>
+    <!-- Vertical Form -->
+    <form class="row g-3" asp-controller="Bill" asp-action="BillSave">
+        <input type="hidden" name="BillID" asp-for="BillID" />
+        <div class="col-12">
+            <label for="inputNanme4" class="form-label">BillNumber</label>
+            <input type="text" class="form-control" asp-for="BillNumber">
+            <span asp-validation-for="BillNumber"></span>
+        </div>
+        <div class="col-12">
+            <label for="inputEmail4" class="form-label">BillDate</label>
+            <input type="date" asp-for="BillDate" id="inputEmail4">
+            <span asp-validation-for="BillDate"></span>
+        </div>
+        <div class="col-12">
+            <label for="inputPassword4" class="form-label">Order ID</label>
+            <select class="form-control" asp-for="OrderID" asp-items="@(new SelectList(ViewBag.OrderList, "OrderID", Convert.ToString("OrderID")))">
+                <option value="">Select OrderID</option>
+            </select>
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">TotalAmount</label>
+            <input type="number" asp-for="TotalAmount" class="form-control" id="inputAddress">
+            <span asp-validation-for="TotalAmount"></span>
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">Discount</label>
+            <input type="number" asp-for="Discount" class="form-control" id="inputAddress">
+            <span asp-validation-for="Discount"></span>
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">NetAmount</label>
+            <input type="number" asp-for="NetAmount" class="form-control" id="inputAddress">
+            <span asp-validation-for="NetAmount"></span>
+        </div>
+        <div class="col-12">
+            <label for="inputAddress" class="form-label">UserID</label>
+            <select class="form-control" asp-for="UserID" asp-items="@(new SelectList(ViewBag.UserList, "UserID", "UserName"))">
+                <option value="">Select User</option>
+            </select>
+            <span asp-validation-for="UserID"></span>
+
+        </div>
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-action="Index" asp-controller="Bill" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form><!-- Vertical Form -->
+
+</div>
+
+@section Scripts
+{
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdminPanelCrud/1.0.0": {
+        "runtime": {
+          "AdminPanelCrud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdminPanelCrud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

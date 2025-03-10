@@ -1,0 +1,14 @@
+E:\Codes\College codes\Sem 5\Dotnet\Audi\bin\Debug\net8.0\Audi.exe
+E:\Codes\College codes\Sem 5\Dotnet\Audi\bin\Debug\net8.0\Audi.deps.json
+E:\Codes\College codes\Sem 5\Dotnet\Audi\bin\Debug\net8.0\Audi.runtimeconfig.json
+E:\Codes\College codes\Sem 5\Dotnet\Audi\bin\Debug\net8.0\Audi.dll
+E:\Codes\College codes\Sem 5\Dotnet\Audi\bin\Debug\net8.0\Audi.pdb
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.AssemblyInfoInputs.cache
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.AssemblyInfo.cs
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.csproj.CoreCompileInputs.cache
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.dll
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\refint\Audi.dll
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.pdb
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\Audi.genruntimeconfig.cache
+E:\Codes\College codes\Sem 5\Dotnet\Audi\obj\Debug\net8.0\ref\Audi.dll

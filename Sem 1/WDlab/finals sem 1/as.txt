@@ -1,0 +1,25 @@
+photo without background(done)
+change name (done)
+designation i.e. frondend devep., app develp, etc(done)
+remove link from "download cv"(done)
+put rickroll in play video(done)
+
+update the experience time(done)
+add some discription(done)
+change 2 photos with  happy coustomer photos(done)
+change happy client and succesful projects and change the discription(done)
+
+in skills and exprience change the skills and change the exprience and education(done)
+
+update the services provided by me(done)
+
+get 6 photos(done)
+
+get 3 photos of friends(done)
+
+get some more photo and write reviews about yourself(done)
+
+update lets work together thing
+
+
+add custom css or bootstrap to change the theme of site and change the menu above
